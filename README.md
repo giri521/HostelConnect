@@ -102,15 +102,6 @@ HostelConnect/
 
 ---
 
-## 🎨 Screenshots
-
-> Add screenshots of:
-> - Login Page
-> - Room Booking
-> - Maintenance Request Form
-> - Admin Approval Dashboard
-
----
 
 ## ✅ Future Enhancements
 
@@ -126,11 +117,6 @@ HostelConnect/
 **VENNAPUSA GIRIVARDHAN REDDY**  
 `B.Tech CSE, Kalasalingam University`  
 Contact: [girivennapusa8@gmail.com]  
-GitHub: [your-github-url]
+GitHub: [https://github.com/giri521]
 
----
-
-## 📜 License
-
-This project is for educational and non-commercial use only.
 
