@@ -123,9 +123,9 @@ HostelConnect/
 
 ## 🙋‍♂️ Developed By
 
-**Your Name**  
+**VENNAPUSA GIRIVARDHAN REDDY**  
 `B.Tech CSE, Kalasalingam University`  
-Contact: [youremail@klu.ac.in]  
+Contact: [girivennapusa8@gmail.com]  
 GitHub: [your-github-url]
 
 ---
