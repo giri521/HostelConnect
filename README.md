@@ -34,9 +34,6 @@ HostelConnect is a web-based hostel management portal tailored for **Kalasalinga
 - 📄 **Approve/Reject Leave Requests**  
   Handle permissions and ensure student tracking.
 
-- 🔄 **Change Room Allocation**  
-  Re-assign students to different rooms when needed.
-
 ---
 
 ### 🛠️ Maintenance Team Portal
